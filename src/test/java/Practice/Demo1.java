@@ -15,6 +15,7 @@ public class Demo1 {
 	{
 		System.out.println("This is demo 2");
 		System.out.println("This is demo 2 print ");
+		System.out.println("This is another demo 2");
 	}
 
 }
