@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-13T11:28:36 IST" name="Default suite" finished-at="2022-09-13T11:28:36 IST" duration-ms="69">
+  <suite started-at="2022-09-13T11:34:43 IST" name="Default suite" finished-at="2022-09-13T11:34:43 IST" duration-ms="70">
     <groups>
     </groups>
-    <test started-at="2022-09-13T11:28:36 IST" name="Default test" finished-at="2022-09-13T11:28:36 IST" duration-ms="69">
+    <test started-at="2022-09-13T11:34:43 IST" name="Default test" finished-at="2022-09-13T11:34:43 IST" duration-ms="70">
       <class name="Practice.Demo1">
-        <test-method signature="demoMethod1()[pri:0, instance:Practice.Demo1@29e495ff]" started-at="2022-09-13T11:28:36 IST" name="demoMethod1" finished-at="2022-09-13T11:28:36 IST" duration-ms="10" status="PASS">
+        <test-method signature="demoMethod1()[pri:0, instance:Practice.Demo1@29e495ff]" started-at="2022-09-13T11:34:43 IST" name="demoMethod1" finished-at="2022-09-13T11:34:43 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demoMethod1 -->
-        <test-method signature="demoMethod2()[pri:0, instance:Practice.Demo1@29e495ff]" started-at="2022-09-13T11:28:36 IST" name="demoMethod2" finished-at="2022-09-13T11:28:36 IST" duration-ms="3" status="PASS">
+        <test-method signature="demoMethod2()[pri:0, instance:Practice.Demo1@29e495ff]" started-at="2022-09-13T11:34:43 IST" name="demoMethod2" finished-at="2022-09-13T11:34:43 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demoMethod2 -->
